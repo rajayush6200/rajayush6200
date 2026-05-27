@@ -87,7 +87,7 @@ const ayushRaj = {
 
 > **Production-Grade Airbnb-Style Platform**
 
-[![RajSpace](https://img.shields.io/badge/LIVE-RajSpace-f59e0b?style=for-the-badge&logo=airbnb&logoColor=white&labelColor=0a0a0f)](https://github.com/rajayush6200/rajspace)
+[![RajSpace](https://img.shields.io/badge/LIVE-RajSpace-f59e0b?style=for-the-badge&logo=airbnb&logoColor=white&labelColor=0a0a0f)](https://rajspace.onrender.com)
 
 **The Stack:**
 `Node.js` `Express` `MongoDB` `Mapbox` `Passport.js` `Cloudinary`
@@ -111,7 +111,7 @@ const ayushRaj = {
 
 > **AI-Driven Fintech Trading Platform**
 
-[![Investro](https://img.shields.io/badge/LIVE-Investro-10b981?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=0a0a0f)](https://github.com/rajayush6200/investro)
+[![Investro](https://img.shields.io/badge/LIVE-Investro-10b981?style=for-the-badge&logo=chartdotjs&logoColor=white&labelColor=0a0a0f)](https://investro.onrender.com)
 
 **The Stack:**
 `Python` `React` `FastAPI` `PostgreSQL` `Redis` `WebSockets`
@@ -162,7 +162,7 @@ const ayushRaj = {
 
 > **AI Healthcare Intelligence Platform**
 
-[![VitalLink](https://img.shields.io/badge/LIVE-VitalLink-00f5ff?style=for-the-badge&logo=heart&logoColor=white&labelColor=0a0a0f)](https://github.com/rajayush6200/VitalLink)
+[![VitalLink](https://img.shields.io/badge/LIVE-VitalLink-00f5ff?style=for-the-badge&logo=heart&logoColor=white&labelColor=0a0a0f)](https://vitallink-app-2jb5.onrender.com)
 
 **The Stack:**
 `Python` `FastAPI` `React` `TensorFlow` `PostgreSQL` `Docker`
